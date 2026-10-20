@@ -1,2 +1,2 @@
 README
-ligne de texte 
+ligne de texte # exercice_git
